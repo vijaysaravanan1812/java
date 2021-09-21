@@ -2,6 +2,8 @@
 class test{
 
     int var;
+
+    //constructor
     test(int x)
     {
         this.var = x;
@@ -13,6 +15,8 @@ class test{
 }
 
 
+
+//main class 
 public class HelloWorld {
      public static void main(String[] args) {
         
